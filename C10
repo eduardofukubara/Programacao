@@ -19,6 +19,7 @@ int main(int argc, char const *argv[])
     {
       printf("%i",b);
       
+      
     }
 
     return 0;
