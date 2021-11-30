@@ -15,5 +15,6 @@ int main(int argc, char const *argv[])
 
     printf("A area do retangulo e: %i",area);
 
+
     return 0;
 }
